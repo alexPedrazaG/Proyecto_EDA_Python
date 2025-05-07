@@ -4,10 +4,15 @@
 Realizar un análisis exploratorio de los datos que te aportamos. Para realizar este análisis es obligatorio realizarlo con Python.
 
 ### 🗂️ Estructura del Proyecto
+
 ├── anlisis Py # Resultado_EDA_Python.py # Contiene el archivo de python con toda la programación
+
 ├── data # bank-additional.csv y customer-details.xlsx  # Son los fichero de análisis proporcionados por la escuela
+
 ├── docs # DataProject_ Proyecto EDA con Python.doc # Descripción del significado de los ficheros
+
 ├── results # archivo_limpio_CSV.csv y archivo_limpio_EXCEL.xlsx # Resultado del archivo después de haber hecho limpieza de datos y creación de nuevos campo en (.csv y .xlsx)
+
 ├── README.md # Descripción del proyecto
 
 ### 🛠️ Instalación y Requisitos
@@ -15,7 +20,9 @@ Realizar un análisis exploratorio de los datos que te aportamos. Para realizar 
 En este proyecto es necesario utilizar:
 
 • Python 3.13.2 (es la versión que he utilizado para hacer los ejercicios)
+
 • Librerias: Pandas, numpy, locale, seaborn y matplotlib.pyplot
+
 • Un editor de texto para trabajar en el código por ejemplo: Visual Studio Code
 
 ### 🎯 Criterios
@@ -136,4 +143,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abr
 ### ✒️ Autores
 
 Alejandro Pedraza
+
 @alexPedrazaG
